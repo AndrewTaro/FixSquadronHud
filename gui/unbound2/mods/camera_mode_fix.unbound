@@ -1,0 +1,19 @@
+(def constant CameraMode {
+		AIRPLANES           :1,
+		DOCK			    :2,
+		TACTICALMAP	        :3,
+		DEVFREE				:4,
+		SHELLTRACKER        :5,
+		PLANETRACKER	    :6,
+		DOCKMODULE		    :7,
+		SNAKETAIL           :8,
+		SPECTATOR		    :9,
+		REPLAY_FPC          :10,
+		UNDERWATER          :11,
+		TACTICAL_CONSUMABLE	:12
+		
+		DOCKFLAGS		    :19,
+		DOCKENSIGN		    :20,
+		DOCKLOOTBOX         :21,
+		DOCKNAVALFLAG	    :22
+		})
